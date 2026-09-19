@@ -1,0 +1,6 @@
+﻿id,nome,capacidade,tipo,campus,predio,andar,numero,computadores,projetor,ar_condicionado,bancadas
+1,Sala 101,40,Teórica,Campus Central,Prédio A,1,101,0,True,True,True
+2,Lab Informática 201,35,Laboratório de Informática,Campus Central,Prédio B,2,201,35,True,True,True
+3,Auditório Principal,150,Auditório,Campus Central,Prédio C,1,A01,0,True,True,False
+4,sala de computacao,30,Teórica,Campus Central,Prédio A,1,101,0,False,False,False
+5,sala de computacao,30,Teórica,Campus Central,Prédio A,1,101,0,True,False,False
